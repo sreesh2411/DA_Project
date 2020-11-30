@@ -28,3 +28,7 @@ Data was majorly compiled from:
 ## Modeling/Forecasting
 The forecasting of the cases were done with two compartmental model : SIR (Susceptible, Infectious, Recovered) and SEIHRD (Susceptible, Exposed, Infectious, Hospitalized, Recovered, Dead).
 ![SIR Model](https://www.lewuathe.com/assets/img/posts/2020-03-11-covid-19-dynamics-with-sir-model/sir.png)
+
+## Execution
+All notebooks are present in the '''Notebooks + Data''' Folder
+

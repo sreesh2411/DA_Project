@@ -10,13 +10,13 @@ For EDA, please refer to ]DA_Visualizations2(Phase_1)]
 ## Visualizations
 The Visualizations are done in [DA_Visualizations(Phase_1)]. There are animations present in the notebooks of EDA and Visualizations have animations present in them. Hence, viewing them in a notebook viewer would be optimal.<br>
 Some [Visualizations](https://github.com/sreesh2411/DA_Project/tree/main/Visualizations) are already taken out:
-*[Bar Plots](https://github.com/sreesh2411/DA_Project/tree/main/Visualizations/Bar%20Plots) 
-*[Bubble Charts](https://github.com/sreesh2411/DA_Project/tree/main/Visualizations/Bubble%20Charts)
-**[Continent-Wise]
-**[Country-Wise]
-*[Geo Plots](https://github.com/sreesh2411/DA_Project/tree/main/Visualizations/Geo%20Plots) 
-*[Advanced Visualiaztions](https://github.com/sreesh2411/DA_Project/tree/main/Visualizations/Advanced%20Viz) 
-**[USA]
-**[India]
-*[World Cloud](https://github.com/sreesh2411/DA_Project/tree/main/Visualizations/Word%20Cloud) 
+* [Bar Plots](https://github.com/sreesh2411/DA_Project/tree/main/Visualizations/Bar%20Plots) 
+* [Bubble Charts](https://github.com/sreesh2411/DA_Project/tree/main/Visualizations/Bubble%20Charts)
+** [Continent-Wise]
+** [Country-Wise]
+* [Geo Plots](https://github.com/sreesh2411/DA_Project/tree/main/Visualizations/Geo%20Plots) 
+* [Advanced Visualiaztions](https://github.com/sreesh2411/DA_Project/tree/main/Visualizations/Advanced%20Viz) 
+** [USA]
+** [India]
+* [World Cloud](https://github.com/sreesh2411/DA_Project/tree/main/Visualizations/Word%20Cloud) 
 

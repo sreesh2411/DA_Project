@@ -20,3 +20,7 @@ Some [Visualizations](https://github.com/sreesh2411/DA_Project/tree/main/Visuali
   * [India](https://github.com/sreesh2411/DA_Project/tree/main/Visualizations/Advanced%20Viz/India)
 * [World Cloud](https://github.com/sreesh2411/DA_Project/tree/main/Visualizations/Word%20Cloud) 
 
+## Sources for Data
+Data was majorly compiled from:
+* [John Hopkins](https://github.com/CSSEGISandData/COVID-19)
+* [Our World in Data](https://ourworldindata.org/coronavirus-data)

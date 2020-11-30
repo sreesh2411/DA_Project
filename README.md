@@ -22,5 +22,5 @@ Some [Visualizations](https://github.com/sreesh2411/DA_Project/tree/main/Visuali
 
 ## Sources for Data
 Data was majorly compiled from:
-* [John Hopkins](https://github.com/CSSEGISandData/COVID-19)
-* [Our World in Data](https://ourworldindata.org/coronavirus-data)
+* https://github.com/CSSEGISandData/COVID-19 : John Hopkins Dataset
+* https://ourworldindata.org/coronavirus-data : Our World in Data Dataset

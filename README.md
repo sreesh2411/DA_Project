@@ -12,11 +12,11 @@ The Visualizations are done in [DA_Visualizations(Phase_1)]. There are animation
 Some [Visualizations](https://github.com/sreesh2411/DA_Project/tree/main/Visualizations) are already taken out:
 * [Bar Plots](https://github.com/sreesh2411/DA_Project/tree/main/Visualizations/Bar%20Plots) 
 * [Bubble Charts](https://github.com/sreesh2411/DA_Project/tree/main/Visualizations/Bubble%20Charts)
-  * [Continent-Wise]
-  * [Country-Wise]
+  * [Continent-Wise](https://github.com/sreesh2411/DA_Project/tree/main/Visualizations/Bubble%20Charts/Continent%20Wise)
+  * [Country-Wise](https://github.com/sreesh2411/DA_Project/tree/main/Visualizations/Bubble%20Charts/Country%20Wise)
 * [Geo Plots](https://github.com/sreesh2411/DA_Project/tree/main/Visualizations/Geo%20Plots) 
 * [Advanced Visualiaztions](https://github.com/sreesh2411/DA_Project/tree/main/Visualizations/Advanced%20Viz) 
-  * [USA]
-  * [India]
+  * [USA](https://github.com/sreesh2411/DA_Project/tree/main/Visualizations/Advanced%20Viz/USA)
+  * [India](https://github.com/sreesh2411/DA_Project/tree/main/Visualizations/Advanced%20Viz/India)
 * [World Cloud](https://github.com/sreesh2411/DA_Project/tree/main/Visualizations/Word%20Cloud) 
 

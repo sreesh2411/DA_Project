@@ -24,3 +24,7 @@ Some [Visualizations](https://github.com/sreesh2411/DA_Project/tree/main/Visuali
 Data was majorly compiled from:
 * https://github.com/CSSEGISandData/COVID-19 : John Hopkins Dataset
 * https://ourworldindata.org/coronavirus-data : Our World in Data Dataset
+
+## Forecasting
+The forecasting of the cases were done with two compartmental model : SIR (Susceptible, Infectious, Recovered) and SEIHRD (Susceptible, Exposed, Infectious, Hospitalized, Recovered, Dead).
+![SIR Model](https://www.lewuathe.com/assets/img/posts/2020-03-11-covid-19-dynamics-with-sir-model/sir.png)

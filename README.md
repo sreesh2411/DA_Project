@@ -9,5 +9,7 @@ For EDA, please refer to DA_Visualizations2(Phase_1)
 
 ## Visualizations
 The Visualizations are done in DA_Visualizations(Phase_1). There are animations present in the notebooks of EDA and Visualizations have animations present in them. Hence, viewing them in a notebook viewer would be optimal.
-Some Visualizations are already taken out:
-\t -> 
+Some [Visualizations](https://github.com/sreesh2411/DA_Project/tree/main/Visualizations) are already taken out:
+> Bar Plots
+> Bubble Charts
+

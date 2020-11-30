@@ -36,8 +36,8 @@ For Phase 1 (EDA/Visualizations):<br>
 * [DA_Visualizations2(Phase_1)](https://github.com/sreesh2411/DA_Project/blob/main/Notebooks%20%2B%20Data/DA_Visualizations2(Phase_1).ipynb)
 
 For Phase 2 (Modeling/Forecasting):<br>
-* [DA_Model+Forecasting(Phase_2).ipynb](https://github.com/sreesh2411/DA_Project/blob/main/Notebooks%20%2B%20Data/DA_Model%2BForecasting(Phase_2).ipynb)
-* [DA_Model+Forecasting2(Phase_2).ipynb](https://github.com/sreesh2411/DA_Project/blob/main/Notebooks%20%2B%20Data/DA_Model%2BForecasting2(Phase_2).ipynb)
+* [DA_Model+Forecasting(Phase_2)](https://github.com/sreesh2411/DA_Project/blob/main/Notebooks%20%2B%20Data/DA_Model%2BForecasting(Phase_2).ipynb) (Modeling of China Data)
+* [DA_Model+Forecasting2(Phase_2)](https://github.com/sreesh2411/DA_Project/blob/main/Notebooks%20%2B%20Data/DA_Model%2BForecasting2(Phase_2).ipynb) (Forecast using SIR and SEIHRD)
 
 
 

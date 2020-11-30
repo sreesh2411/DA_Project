@@ -30,5 +30,5 @@ The forecasting of the cases were done with two compartmental model : SIR (Susce
 ![SIR Model](https://www.lewuathe.com/assets/img/posts/2020-03-11-covid-19-dynamics-with-sir-model/sir.png)
 
 ## Execution
-All notebooks are present in the '''Notebooks + Data''' Folder
+All notebooks are present in the ```[Notebooks + Data]()``` Folder
 

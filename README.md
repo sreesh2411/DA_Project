@@ -18,7 +18,7 @@ Some [Visualizations](https://github.com/sreesh2411/DA_Project/tree/main/Visuali
 * [Advanced Visualiaztions](https://github.com/sreesh2411/DA_Project/tree/main/Visualizations/Advanced%20Viz) 
   * [USA](https://github.com/sreesh2411/DA_Project/tree/main/Visualizations/Advanced%20Viz/USA)
   * [India](https://github.com/sreesh2411/DA_Project/tree/main/Visualizations/Advanced%20Viz/India)
-* [World Cloud](https://github.com/sreesh2411/DA_Project/tree/main/Visualizations/Word%20Cloud) 
+* [Word Cloud](https://github.com/sreesh2411/DA_Project/tree/main/Visualizations/Word%20Cloud) 
 
 ## Sources for Data
 Data was majorly compiled from:

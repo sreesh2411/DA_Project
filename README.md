@@ -29,7 +29,7 @@ Data was majorly compiled from:
 The forecasting of the cases were done with two compartmental model : SIR (Susceptible, Infectious, Recovered) and SEIHRD (Susceptible, Exposed, Infectious, Hospitalized, Recovered, Dead).
 ![SIR Model](https://www.lewuathe.com/assets/img/posts/2020-03-11-covid-19-dynamics-with-sir-model/sir.png)
 
-## Execution
+## For Execution
 All notebooks are present in the ```Notebooks + Data``` Folder with the datasets.<br>
 For Phase 1 (EDA/Visualizations):<br>
 * [DA_Visualizations(Phase_1)](https://github.com/sreesh2411/DA_Project/blob/main/Notebooks%20%2B%20Data/DA_Visualizations(Phase_1).ipynb)

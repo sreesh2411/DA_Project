@@ -8,7 +8,7 @@ The outbreak of COVID-19 has affected over 218 countries around the world. The n
 For EDA, please refer to [DA_Visualizations2(Phase_1)](https://github.com/sreesh2411/DA_Project/blob/main/Notebooks%20%2B%20Data/DA_Visualizations2(Phase_1).ipynb).
 
 ## Visualizations
-The Visualizations are done in [DA_Visualizations(Phase_1)](https://github.com/sreesh2411/DA_Project/blob/main/Notebooks%20%2B%20Data/DA_Visualizations(Phase_1).ipynb). There are animations present in the notebooks of EDA and Visualizations have animations present in them. Hence, viewing them in a notebook viewer would be optimal.<br>
+The Visualizations are done in [DA_Visualizations(Phase_1)](https://github.com/sreesh2411/DA_Project/blob/main/Notebooks%20%2B%20Data/DA_Visualizations(Phase_1).ipynb). There are some animations present in the notebooks of EDA and Visualizations too have animations present in them. Hence, viewing them in a notebook viewer (Jupyter/Google Colab) would be optimal.<br>
 Some [Visualizations](https://github.com/sreesh2411/DA_Project/tree/main/Visualizations) are already taken out from the notebook:
 * [Bar Plots](https://github.com/sreesh2411/DA_Project/tree/main/Visualizations/Bar%20Plots) 
 * [Bubble Charts](https://github.com/sreesh2411/DA_Project/tree/main/Visualizations/Bubble%20Charts)
